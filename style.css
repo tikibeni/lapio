@@ -1,3 +1,19 @@
 p {
-  background-color: red;
+  color: brown;
+}
+
+ul {
+  color: violet;
+}
+
+h1 {
+  color: blue;
+}
+
+.jatkoa {
+  color: Red;
+}
+
+.Alaotsikko {
+  color: IndianRed
 }
